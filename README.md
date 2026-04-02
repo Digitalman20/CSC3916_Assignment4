@@ -29,6 +29,7 @@ Create a movie (POST) - both passing and failing ones
 
 ##### Collection access:
 > Exported colelction and the environment shared under 'Postman collection' directory in this repo
+> Deployment URL: https://csc3916-assignment4-ondj.onrender.com 
 
 #### Environments
 Server.js has environments for the database access and a secure token. 
